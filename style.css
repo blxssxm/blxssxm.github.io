@@ -15,3 +15,6 @@ h1 {
 li {
   font-size: small;
 }
+
+/* Fonts */
+@font-face { font-family: pruncial; src:url(Fonts/pruncial.ttf);}
