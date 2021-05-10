@@ -9,6 +9,7 @@
 /* Body */
 
 body { color: white; background: black; max-width: 1400x; margin-left: auto; margin-right; auto; font-family: garamond; } 
+body {font-family: garamond;}
 
 h1 { color: #8E1600; }
 
