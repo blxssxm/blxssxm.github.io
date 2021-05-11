@@ -10,7 +10,7 @@
 
 body { color: white; background: black; max-width: 1400x; margin-left: auto; margin-right; auto; font-family: garamond; } 
 body {font-family: garamond;}
-
+h1,h2,h3,h4 { text-align: center ; }
 h1 { color: #8E1600; }
 
 ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; }
