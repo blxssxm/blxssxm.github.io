@@ -30,3 +30,6 @@ li.dropdown { display: inline-block;}
 .dropdown-content a:hover {background-color: #f1f1f1;}
 
 .dropdown:hover .dropdown-content { display: block;}
+
+
+.center { display: block; margin-left: auto; margin-right: auto; width: 50%;}
