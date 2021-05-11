@@ -34,4 +34,9 @@ li.dropdown { display: inline-block;}
 
 .center { display: block; margin-left: auto; margin-right:}
 
-background-image: url("images/christ.jpg");
+body {
+        			background-image: url('images/christ.jpg');
+        			background-repeat: no-repeat;
+        			background-attachment: fixed;
+        			background-position: center;
+      			}
