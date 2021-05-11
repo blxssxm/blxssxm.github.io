@@ -34,9 +34,4 @@ li.dropdown { display: inline-block;}
 
 .center { display: block; margin-left: auto; margin-right:}
 
-body {
-        			background-image: url('images/fav.jpg');
-        			background-repeat: no-repeat;
-        			background-attachment: fixed;
-        			background-position: center;
-      			}
+
