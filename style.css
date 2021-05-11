@@ -32,6 +32,9 @@ li.dropdown { display: inline-block;}
 .dropdown:hover .dropdown-content { display: block;}
 
 
-.center { display: block; margin-left: auto; margin-right:}
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
