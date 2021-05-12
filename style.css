@@ -32,6 +32,17 @@ li.dropdown { display: inline-block;}
 .dropdown:hover .dropdown-content { display: block;}
 
 
+
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: white;
+}
+
+
 img {
   display: block;
   margin-left: auto;
