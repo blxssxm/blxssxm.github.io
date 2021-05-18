@@ -41,16 +41,22 @@
     
     <pre>
       <code class="language-C">
-      #include (<stdio.h>)
+      #include stdio.h
       int main() {
-      printf("Input a value:");
-      c = getchar();
-      printf("\nYou entered");
-      putchar(c);
-      return 0;
-      }
-      </code>
-    </pre>
+          int number;
+          
+          printf("Input an integer");
+          if (number < 0) {
+              printf("You entered %d. \n", number);
+          }
+          
+          return 0;
+          
+       }
+       </code>
+     </pre>
+    
+  
       <script src="prism.js"></script>
       </body>
     </html>
